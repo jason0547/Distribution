@@ -1,1 +1,1 @@
-Tools will be made available here. Please read the licensing terms.
+Tools will be made available here. Downloading them indicates your agreement with the licensing terms.
